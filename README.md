@@ -94,7 +94,19 @@ Activity Tab
 [BONUS] Interactive Prototype
 
 # Schema
-[This section will be completed in Unit 9]
+#### Activity
+
+| Property     | Type     | Description |
+| ------------ | -------- | ----------- |
+| task         | String   | a stirng for task |
+
+#### ActivityList
+
+| Property     | Type     | Description |
+| ------------ | -------- | ----------- |
+| task         | String   | a stirng for task |
+| TaskList     | array    | a array conataning Tasks |
+
 
 # Models
 [Add table of models]
