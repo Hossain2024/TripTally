@@ -1,3 +1,12 @@
+Things to do: 
+
+-[ ] two navigation Tab(Home , Activity)
+-[ yes] HomeScreen shows a budgest label and allows users to enter an amount
+-[ ] Activity screen Shows a list of Activity
+- [ ] users are able to check off activity
+- [ ] Users can see the activities doen along with the cost in the homescreen
+- [ ] users can see updated balance on the homescreen after completing each task
+
 # Original App Design Project - README Template
 # TripTally
 
