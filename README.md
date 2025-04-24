@@ -76,7 +76,7 @@ Activity Tab
 
 
 # Wireframes
-<img src= "your image here">
+<img src= "IMG_7866.HEIC">
 
 
 
