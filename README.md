@@ -76,7 +76,8 @@ Activity Tab
 
 
 # Wireframes
-<img src= "IMG_7866.HEIC">
+<img src= "![image](https://github.com/user-attachments/assets/82c9d58e-24ee-409d-b292-09d3668f2b38)
+">
 
 
 
